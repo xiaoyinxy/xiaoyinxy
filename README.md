@@ -1,16 +1,19 @@
-## Hi there 👋
+# 你好，我是方呈 👋
 
-<!--
-**xiaoyinxy/xiaoyinxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名兼具工程与产品视角的 AI 产品探索者，目前在新加坡国立大学攻读计算机科学硕士，本科毕业于电子科技大学软件工程专业。
 
-Here are some ideas to get you started:
+曾在 TP-Link 担任后端开发工程师（产品架构方向），参与海外 ISP 客户云管理平台的需求分析、原型评审与方案落地。这段经历让我习惯从真实业务问题出发，在用户体验、技术可行性与交付成本之间寻找平衡。现在，我主要关注 **AI 产品、Agent 工作流与 RAG 应用**，喜欢把模糊需求变成可验证的产品。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 正在做的事
+
+- **[STAR AI 面试教练](https://github.com/xiaoyinxy/star-ai-interview-coach)**：通过事实收集、缺口识别和定向追问，帮助求职者把真实项目经历整理成更有说服力的 STAR 故事。围绕相关性、单问效率与事实一致性建立评测，并持续优化工作流。
+- **[CompeteX 竞品情报研究系统](https://github.com/xiaoyinxy/CompeteX-LangGraph)**：基于 LangGraph 构建多智能体研究流程，让竞品研究的需求、资料来源、分析过程和结论更清晰、更可追溯。
+- **Log Center（TP-Link 项目）**：负责从需求挖掘到 V1.0、V2.0 落地，围绕海外设备故障排查设计日志上报与检索体验；试点阶段将同类故障排查时间缩短约 50%。
+
+## 我的工具箱
+
+**产品**：用户调研、需求分析、MVP 优先级、原型设计、指标与评测设计  
+**AI**：Agent、RAG、Prompt、LangGraph、多轮对话与 Bad Case 分析  
+**工程**：Python、TypeScript、SQL、后端架构与数据处理
+
+欢迎看看我的[个人网站](https://selfweb-mu.vercel.app/)和上面的项目，也欢迎交流 AI 产品与工程实践。
